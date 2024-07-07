@@ -36,3 +36,4 @@ This section demonstrates a subset of functionality to make sure it behaves as e
     data = rng.standard_normal((3, 100))
     fig, ax = plt.subplots()
     ax.scatter(data[0], data[1], c=data[2], s=3)
+ 
